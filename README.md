@@ -24,4 +24,4 @@ Visual explainer comparing two architectures:
 
 ## Diagram
 
-Open `.excalidraw` with the [Excalidraw extension](https://marketplace.visualstudio.com/items?itemName=pomdtr.excalidraw-editor) to view the architecture comparison.
+![WebRTC Architecture](WebRTC.png)
